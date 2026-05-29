@@ -17,3 +17,4 @@ API endpoints:
 Env variables:
 - `PORT` - default 5000
 - `MONGO_URI` - MongoDB connection string
+https://notes-checklist-app.vercel.app/
