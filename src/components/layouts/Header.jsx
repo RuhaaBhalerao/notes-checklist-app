@@ -6,7 +6,7 @@ function Header({ searchQuery, onSearchChange, onAddClick, activeView }) {
 
 	return (
 		<header className="page-header">
-			<h2 className="header-greeting">Good Evening</h2>
+			<h2 className="header-greeting">Hello!</h2>
 
 			<div className="header-actions">
 				<input
